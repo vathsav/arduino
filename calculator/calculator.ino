@@ -35,7 +35,7 @@ Done by Vathsav Harikrishnan
  
  */
 
-#include <aD.h> //import lcd library
+#include <LiquidCrystal.h> //import lcd library
 #include <Keypad.h> //import keypad library
 
 LiquidCrystal lcd(5, 4, 3, 2, 1, 0); //lcd pins
